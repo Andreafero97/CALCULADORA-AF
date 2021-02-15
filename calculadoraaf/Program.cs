@@ -7,7 +7,7 @@ namespace Calculadora_AF
         static void Main(string[] args)
         {
 
-            Console.BackgroundColor = ConsoleColor.Magenta;
+           // Console.BackgroundColor = ConsoleColor.Magenta;
             Console.ForegroundColor = ConsoleColor.White;
             try
             {
@@ -16,7 +16,7 @@ namespace Calculadora_AF
                 for (int i = 0; i < n; i++)
                 {
                     Console.WriteLine("********************* ¡BIENVENIDOS A LA CALCULADORA DE ANDREA FERRERO! *********************" + "\n"
-                   + "******************¿Desea realizar alguna operación? <S/N> ****************** \n");
+                   + "******************¿Desea realizar alguna operación? <S/N> ******************" \n" );
                     valorElegido = Console.ReadLine();
                     if (valorElegido.ToUpper() == "S")
                     {
