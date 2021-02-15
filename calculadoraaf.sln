@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadoraaf", "calculadoraaf\calculadoraaf.csproj", "{FC3F2E16-B80B-4CCB-9BA1-2A395256E735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC3F2E16-B80B-4CCB-9BA1-2A395256E735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3F2E16-B80B-4CCB-9BA1-2A395256E735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3F2E16-B80B-4CCB-9BA1-2A395256E735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3F2E16-B80B-4CCB-9BA1-2A395256E735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F51991C4-A2A9-4BFD-B487-BF824B7A55AB}
+	EndGlobalSection
+EndGlobal
