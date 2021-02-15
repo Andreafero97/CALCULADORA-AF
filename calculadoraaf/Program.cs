@@ -7,7 +7,7 @@ namespace Calculadora_AF
         static void Main(string[] args)
         {
 
-           // Console.BackgroundColor = ConsoleColor.Magenta;
+            Console.BackgroundColor = ConsoleColor.Magenta;
             Console.ForegroundColor = ConsoleColor.White;
             try
             {
